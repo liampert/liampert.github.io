@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='[#](https://polisci.msu.edu/people/directory/liampert-iliya.html)'>MSU directory</a>.
+subtitle: <a href='(https://polisci.msu.edu/people/directory/liampert-iliya.html)'>MSU directory</a>.
 
 profile:
   align: right
