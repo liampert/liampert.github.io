@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: bio
 permalink: /
 subtitle: <a href="https://polisci.msu.edu/people/directory/liampert-iliya.html">MSU directory</a>
 
@@ -19,6 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Shalom! I am a Ph.D. student at Michigan State University and a research fellow at Institute for Public Policy and Social Research.
+Shalom! I am a Ph.D. student at Michigan State University and a research fellow at the Institute for Public Policy and Social Research.
 
-My research interest primarily focused on racial minority representation in Congress, racial coalitions, race/ethnic politics broadly.
+My research interest primarily focused on racial minority representation in Congress, racial coalitions, and race/ethnic politics broadly.
