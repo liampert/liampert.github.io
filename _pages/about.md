@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Shalom! I am a Ph.D. student at Michigan State University and a research fellow at the Institute for Public Policy and Social Research.
+Welcome to my website. I am a Ph.D. student at Michigan State University and a research fellow at the Institute for Public Policy and Social Research.
 
 My research interest primarily focused on racial minority representation in Congress, racial coalitions, and race/ethnic politics broadly.
 
