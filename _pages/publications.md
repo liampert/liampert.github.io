@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /research/
 title: Research and Data
 description: My work focuses on understanding how the descriptive representation of racial and ethnic minorities in both elected and unelected bodies influences meaningful changes in the quality of life of their co-ethnic constituencies. 
-nav: false
+nav: true
 nav_order: 2
 ---
 
