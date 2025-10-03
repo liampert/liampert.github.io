@@ -12,17 +12,52 @@
       "region": "Michigan"
     }
   },
-  "work": [
+  "education": [
+    {
+      "institution": "Michigan State University",
+      "url": "https://polisci.msu.edu/",
+      "area": "Political Science",
+      "studyType": "Ph.D.",
+      "startDate": "2023",
+      "endDate": "2028",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Michigan State University",
+      "url": "https://polisci.msu.edu/",
+      "area": "Political Science",
+      "studyType": "M.A.",
+      "startDate": "2023",
+      "endDate": "2025"
+    },
+    {
+      "institution": "Reichman University",
+      "url": "https://www.runi.ac.il/en",
+      "area": "Political Science",
+      "studyType": "Graduate Coursework",
+      "startDate": "2021",
+      "endDate": "2023"
+    },
+    {
+      "institution": "Vytautas Magnus University / European Humanities University",
+      "url": "https://www.vdu.lt/en/",
+      "area": "Political Science and Economics",
+      "studyType": "B.A. (Joint Degree)",
+      "startDate": "2016",
+      "endDate": "2020"
+    }
+  ],
+  "research": [
     {
       "name": "Institute for Public Policy and Social Research (IPPSR), Michigan State University",
       "position": "Research Fellow",
       "url": "https://ippsr.msu.edu/",
-      "startDate": "2024-05-01",
-      "endDate": "2025-08-01",
-      "summary": "Conducted research on minority politics, legislative representation, and data-driven public policy projects.",
+      "startDate": "2024",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Co-author of SenateData (public GitHub repository).",
-        "Presented findings at academic conferences."
+        "Co-author of SenateData (public GitHub repository)."
       ]
     },
     {
@@ -46,44 +81,6 @@
       "startDate": "2024-11-05",
       "endDate": "2024-11-05",
       "summary": "Conducted in-person exit polling during the 2024 election."
-    }
-  ],
-  "volunteer": [],
-  "education": [
-    {
-      "institution": "Michigan State University",
-      "url": "https://polisci.msu.edu/",
-      "area": "Political Science (American Politics, Research Methods)",
-      "studyType": "Ph.D. (expected 2028)",
-      "startDate": "2023",
-      "endDate": "2028",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "Michigan State University",
-      "url": "https://polisci.msu.edu/",
-      "area": "Political Science",
-      "studyType": "M.A.",
-      "startDate": "2023-08-01",
-      "endDate": "2025-05-01"
-    },
-    {
-      "institution": "Reichman University",
-      "url": "https://www.runi.ac.il/en",
-      "area": "Political Science",
-      "studyType": "Training/Graduate Coursework",
-      "startDate": "2021-01-01",
-      "endDate": "2022-12-01"
-    },
-    {
-      "institution": "Vytautas Magnus University / European Humanities University",
-      "url": "https://www.vdu.lt/en/",
-      "area": "Political Science and Economics",
-      "studyType": "B.A. (Joint Degree)",
-      "startDate": "2016-09-01",
-      "endDate": "2020-06-01",
-      "summary": "Thesis: Race/Ethnic and Sexual Minorities’ Political Struggle in the U.S. in the late 2010s"
     }
   ],
   "awards": [
