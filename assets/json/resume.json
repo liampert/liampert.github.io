@@ -1,1 +1,227 @@
-
+{
+    "basics": {
+      "name": "Iliya Liampert",
+      "label": "Political Science Ph.D. Student",
+      "email": "liampert@msu.edu",
+      "url": "https://liampert.github.io",
+      "summary": "Ph.D. student in Political Science at Michigan State University specializing in American Politics, Congress, the Presidency, and Racial and Ethnic Politics. Research focuses on legislative representation, minority political behavior, and diversity in executive appointments. Experienced in quantitative methods, survey experiments, and machine learning.",
+      "location": {
+        "city": "East Lansing",
+        "region": "Michigan",
+        "countryCode": "US"
+      },
+      "profiles": [
+        {
+          "network": "GitHub",
+          "username": "IPPSR/SenateData",
+          "url": "https://github.com/IPPSR/SenateData"
+        },
+        {
+          "network": "GitHub",
+          "username": "liampert",
+          "url": "https://github.com/liampert"
+        }
+      ]
+    },
+  
+    "education": [
+      {
+        "institution": "Michigan State University",
+        "area": "Political Science",
+        "studyType": "Ph.D.",
+        "startDate": "2023",
+        "endDate": "2028 (expected)",
+        "summary": "Subfield: American Politics, Congress, Presidency, Racial and Ethnic Politics.",
+        "courses": [],
+        "dissertationCommittee": [
+          "Ian Ostrander (chair)",
+          "Eric Gonzalez Juenke",
+          "Nazita Lajevardi",
+          "Matt Grossmann",
+          "Andrew Halterman"
+        ]
+      },
+      {
+        "institution": "Michigan State University",
+        "area": "Political Science",
+        "studyType": "Master's",
+        "endDate": "2025"
+      },
+      {
+        "institution": "Reichman University",
+        "studyType": "Graduate Coursework",
+        "endDate": "2022",
+        "summary": "Advanced research methods, institutional decision-making, game theory, homeland security, political theory, Israeli politics, American politics."
+      },
+      {
+        "institution": "Vytautas Magnus University / European Humanities University",
+        "studyType": "Bachelor's",
+        "area": "Political Science and Economics (Joint Degree)",
+        "endDate": "2020",
+        "summary": "Thesis: Race/Ethnic and Sexual Minorities’ Political Struggle in the United States in the late 2010s: Preconditions, Tactics, and Effects"
+      }
+    ],
+  
+    "work": [
+      {
+        "name": "Public Policy and Social Research (IPPSR), Michigan State University",
+        "position": "Research Fellow",
+        "startDate": "2024-05",
+        "endDate": "2025-08"
+      },
+      {
+        "name": "Senate Votes Project",
+        "position": "Research Coordinator (Co-author)",
+        "startDate": "2025-11",
+        "summary": "Co-authoring and coordinating research examining congressional voting patterns."
+      },
+      {
+        "name": "Exit Polling – East Lansing, MI",
+        "position": "Field Research Worker",
+        "startDate": "2024-11-05"
+      },
+      {
+        "name": "American Public Opinion Toward Israel (APOI)",
+        "position": "Research Intern",
+        "startDate": "2021-03",
+        "endDate": "2021-10"
+      },
+      {
+        "name": "Vilnius Institute for Policy Analysis",
+        "position": "Research Assistant",
+        "startDate": "2019-08",
+        "endDate": "2019-10"
+      }
+    ],
+  
+    "publications": [
+      {
+        "name": "President Biden and Diversity in Executive Appointments",
+        "publisher": "Under Review",
+        "authors": ["Iliya Liampert", "Ian Ostrander"]
+      },
+      {
+        "name": "SenateData",
+        "publisher": "Public Policy and Social Research",
+        "releaseDate": "2025",
+        "url": "https://github.com/IPPSR/SenateData",
+        "authors": ["Benjamin Yoel", "Iliya Liampert"]
+      }
+    ],
+  
+    "projects": [
+      {
+        "name": "Who Gets To Govern? Diversity in Executive Appointments",
+        "description": "Working paper examining determinants of diversity in U.S. executive branch appointments.",
+        "authors": ["Iliya Liampert", "Bailey Oates", "Kelsey Osborne-Garth", "Ian Ostrander"]
+      },
+      {
+        "name": "Coded Campaigns: The Rhetorical Strategies of Minority Candidates",
+        "description": "Working paper analyzing how minority candidates employ coded and strategic rhetoric."
+      }
+    ],
+  
+    "volunteer": [],
+  
+    "awards": [
+      {
+        "title": "College of Social Science Provost Undergraduate Research Initiative Award",
+        "awarder": "Michigan State University",
+        "date": "2025-2026",
+        "summary": "$2000 with Ian Ostrander, Kelsey Osborne-Garth, and Bailey Oates"
+      },
+      {
+        "title": "College of Social Science Provost Undergraduate Research Initiative Award",
+        "awarder": "Michigan State University",
+        "date": "2024-2025",
+        "summary": "$4000 with Ian Ostrander"
+      },
+      {
+        "title": "MPSA Travel Grant",
+        "awarder": "Minority Politics Lab (CREW)",
+        "date": "2024",
+        "summary": "$1000"
+      },
+      {
+        "title": "MPSA Grant",
+        "awarder": "Minority Politics Lab (CREW)",
+        "date": "2025",
+        "summary": "$250"
+      },
+      {
+        "title": "MPSA Travel Grant",
+        "awarder": "MSU Department of Political Science",
+        "date": "2025",
+        "summary": "$1100"
+      },
+      {
+        "title": "The Graduate School Research Grant",
+        "awarder": "Michigan State University",
+        "date": "2025",
+        "summary": "$1200"
+      },
+      {
+        "title": "Outstanding Academic Achievement",
+        "awarder": "European Humanities University",
+        "date": "2020"
+      },
+      {
+        "title": "Outstanding Achievement Award for The Implementation of Creative Projects",
+        "awarder": "European Humanities University",
+        "date": "2020"
+      }
+    ],
+  
+    "skills": [
+      {
+        "name": "Statistical & Programming Tools",
+        "keywords": ["R", "Python", "STATA", "SPSS", "GRETL", "GitHub", "R Package Creation", "LaTeX"]
+      },
+      {
+        "name": "Research Methods",
+        "keywords": ["Quantitative Methods", "Survey Experiments", "Machine Learning"]
+      }
+    ],
+  
+    "languages": [
+      { "language": "English", "fluency": "Full working proficiency" },
+      { "language": "Russian", "fluency": "Native" },
+      { "language": "Belarusian", "fluency": "Native" },
+      { "language": "Ukrainian", "fluency": "Working proficiency" },
+      { "language": "Polish", "fluency": "Limited working proficiency" },
+      { "language": "Hebrew", "fluency": "Intermediate" }
+    ],
+  
+    "interests": [
+      {
+        "name": "Research Areas",
+        "keywords": [
+          "Legislative Representation",
+          "Minority Politics",
+          "Executive Politics",
+          "Racial & Ethnic Politics",
+          "Congressional Politics"
+        ]
+      }
+    ],
+  
+    "references": [
+      {
+        "name": "Ian Ostrander, Ph.D.",
+        "reference": "Associate Professor, Michigan State University — ostran45@msu.edu"
+      },
+      {
+        "name": "Eric Gonzalez Juenke, Ph.D.",
+        "reference": "Associate Professor, Michigan State University — juenke@msu.edu"
+      },
+      {
+        "name": "Lesley Terris, Ph.D.",
+        "reference": "Associate Professor and Vice Dean, Reichman University — lterris@runi.ac.il"
+      },
+      {
+        "name": "Andrzej Pukszto, Ph.D.",
+        "reference": "Associate Professor, Vytautas Magnus University — andzej.puksto@vdu.lt"
+      }
+    ]
+  }
+  
