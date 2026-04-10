@@ -13,6 +13,7 @@ profile:
     <div style="text-align: center; margin-bottom: 0.75rem; font-size: 1.4rem;">
       <a href="mailto:liampert@msu.edu" title="Email" style="margin: 0 0.4rem;"><i class="fa-solid fa-envelope"></i></a>
       <a href="https://scholar.google.com/citations?user=VJfye-MAAAAJ" title="Google Scholar" style="margin: 0 0.4rem;"><i class="ai ai-google-scholar"></i></a>
+      <a href="https://orcid.org/0009-0006-3337-0325" title="ORCID" style="margin: 0 0.4rem;"><i class="ai ai-orcid"></i></a>
       <a href="https://bsky.app/profile/liampert.bsky.social" title="Bluesky" style="margin: 0 0.4rem;"><i class="fa-brands fa-bluesky"></i></a>
     </div>
     <p>Michigan State University</p>
