@@ -1,12 +1,40 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
-nav_order: 6
+title: Teaching
+nav: true
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Michigan State University
 
-Organize your courses by years, topics, or universities, however you like!
+**Co-Instructor**, Introduction to American Politics (B.A.)
+*Dr. Eric Gonzalez Juenke* — Summers 2024, 2025, 2026
+
+**Guest Lecturer**, Introduction to American Politics (B.A.), "Campaigns and Elections"
+March 2026
+
+**Teaching Assistant**, Minority Politics (B.A.)
+*Dr. John Kuk* — Autumn 2025
+
+**Guest Lecturer**, Minority Politics (B.A.), "Minority Political Representation"
+October 2025
+
+**Teaching Assistant**, The American Presidency (B.A.)
+*Dr. Ian Ostrander* — Spring 2024
+
+**Teaching Assistant**, Introduction to American Politics (B.A.)
+*Dr. Eric Gonzalez Juenke* — Autumn 2023
+
+---
+
+## Reichman University
+
+**Teaching Assistant**, American Government and Politics (B.A.)
+*Dr. Amnon Cavari* — Autumns 2021, 2022
+
+**Teaching Assistant**, Game Theory (M.A.)
+*Dr. Eli Mograbi* — Summer 2022
+
+**Teaching Assistant**, Decision Making for Entrepreneurs (B.A.)
+*Drs. Eli Mograbi and Liraz Margalit* — Autumn 2022

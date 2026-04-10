@@ -2,7 +2,8 @@
 layout: page
 permalink: /senatedata/
 title: SenateData
-nav: false
+nav: true
+nav_order: 4
 ---
 
 Yoel, Benjamin, and **Iliya Liampert** (2025). *SenateData.* Institute for Public Policy and Social Research. [[GitHub]](https://github.com/IPPSR/SenateData)
