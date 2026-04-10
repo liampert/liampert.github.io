@@ -2,20 +2,20 @@
 layout: page
 permalink: /research/
 title: Research and Data
-description: My work focuses on understanding how the descriptive representation of racial and ethnic minorities in both elected and unelected bodies influences meaningful changes in the quality of life of their co-ethnic constituencies.
+description: My work focuses on understanding how the descriptive representation of racial and ethnic minorities in both elected and unelected bodies influences meaningful changes in the quality of life of their co-ethnic constituencies as well as their congressional careers.
 nav: true
 nav_order: 2
 ---
 
 ## Published
 
-Liampert, Iliya, and Ian Ostrander (2026). "President Biden and Diversity in Executive Appointments." *American Politics Research.* [[Link]](https://doi.org/10.1177/1532673X26142937)
+Liampert, Iliya, and Ian Ostrander (2026). "President Biden and Diversity in Executive Appointments." *American Politics Research.* [[Link]](https://doi.org/10.1177/1532673X261429372)
 
 ---
 
 ## Data
 
-Yoel, Benjamin, and Iliya Liampert (2025). *SenateData.* Institute for Public Policy and Social Research. GitHub. [[Link]](https://github.com/IPPSR/SenateData)
+Yoel, Benjamin, and Iliya Liampert (2025). *SenateData.* Institute for Public Policy and Social Research. [[GitHub]](https://github.com/IPPSR/SenateData)
 
 ---
 
