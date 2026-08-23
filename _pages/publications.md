@@ -15,24 +15,26 @@ The representativeness of decision-making bodies relative to the population gove
 
 ---
 
+## Under Review
+
+**Liampert, Iliya**, Bailey Oates, Kelsey Osborne-Garth, and Ian Ostrander. "Who Gets To Govern? Diversity in Executive Appointments." *Revise and Resubmit.*
+
+**Liampert, Iliya**, Jeremy Price, and Ian Ostrander. "The Determinants of Legislators' Support for Democracy." *Revise and Resubmit.*
+
+Yoel, Benjamin, **Iliya Liampert**, and Matt Grossmann. "Senate Backgrounds and Legislative Effectiveness: Exploring Senators and Their Behavior with SenateData." *Revise and Resubmit.*
+
+**Liampert, Iliya**. "Coded Campaigns: Asymmetric Voter Responses to Racial Campaign Rhetoric." *Under Review, PS: Political Science & Politics.*
+
+---
+
 ## Data
 
 Yoel, Benjamin, and **Iliya Liampert** (2025). *[SenateData](/senatedata/).* Institute for Public Policy and Social Research. [[GitHub]](https://github.com/IPPSR/SenateData)
 
 ---
 
-## Under Review
-
-**Liampert, Iliya**, Bailey Oates, Kelsey Osborne-Garth, and Ian Ostrander. "Who Gets To Govern? Diversity in Executive Appointments."
-
----
-
 ## Working Papers
 
-**Liampert, Iliya**. "The Funneling Effect of Committee Stereotypes: Institutional Gatekeeping of Historically Marginalized in the House of Representatives."
+**Liampert, Iliya**. "The Funneling Effect: Burden Committees as Institutional Gatekeeping of Historically Marginalized Representatives."
 
-**Liampert, Iliya**. "Coded Campaigns: Attitudes Toward Rhetorical Strategies of Racial Minority Candidates."
-
-Yoel, Benjamin, **Iliya Liampert**, and Matt Grossmann. "The Elitists and The Polarizers: Exploring Senators, Their States, and Their Behavior with SenateData."
-
-**Liampert, Iliya**, Jeremy Price, and Ian Ostrander. "The Determinants of Legislators' Support for Democracy."
+**Liampert, Iliya**. "Sorted by Stereotypes: Race and Gender in Congressional Committee Assignments."

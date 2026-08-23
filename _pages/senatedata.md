@@ -3,7 +3,7 @@ layout: page
 permalink: /senatedata/
 title: SenateData
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 <img src="/assets/img/ippsr.jpg" alt="IPPSR" style="max-height: 100px; border-radius: 4px; margin-bottom: 1.25rem;">

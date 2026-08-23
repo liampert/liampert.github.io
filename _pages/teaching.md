@@ -3,7 +3,29 @@ layout: page
 permalink: /teaching/
 title: Teaching
 nav: true
-nav_order: 3
+nav_order: 4
+---
+
+## The American Congress (PLS 324)
+
+**Instructor**, Michigan State University — Autumn 2026
+
+<div style="display: flex; justify-content: flex-end; margin-bottom: 1rem;">
+  <a href="/assets/pdf/Congress_F26.pdf" target="_blank" style="text-decoration: none;">
+    ⬇ Download Syllabus
+  </a>
+</div>
+
+<iframe
+  src="/assets/pdf/Congress_F26.pdf"
+  width="100%"
+  height="1100px"
+  style="border: none;">
+  <p>Your browser does not support PDF previews.
+    <a href="/assets/pdf/Congress_F26.pdf">Download the syllabus here.</a>
+  </p>
+</iframe>
+
 ---
 
 ## Michigan State University
