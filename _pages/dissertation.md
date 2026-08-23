@@ -18,3 +18,7 @@ The third paper examines the election stage using a survey experiment, finding t
 
 Together, these papers demonstrate the persistence of exclusionary practices that systematically diminish minority congressional representation, shape campaign choices, and structure access to institutional power.
 
+<div style="text-align: center; margin-top: 2rem;">
+  <img src="/assets/img/deadbill.jpg" alt="Committee in Session cartoon" style="max-width: 480px; width: 100%;">
+</div>
+
