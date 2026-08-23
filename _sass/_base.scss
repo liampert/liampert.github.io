@@ -309,6 +309,14 @@ ul.task-list input[type="checkbox"] {
     }
   }
 
+  // Palette colors cycling across nav links
+  .navbar-nav .nav-item:nth-child(1) > .nav-link { color: #c72138; &:hover { color: #e06236; } }
+  .navbar-nav .nav-item:nth-child(2) > .nav-link { color: #e06236; &:hover { color: #d7a64b; } }
+  .navbar-nav .nav-item:nth-child(3) > .nav-link { color: #d7a64b; &:hover { color: #c72138; } }
+  .navbar-nav .nav-item:nth-child(4) > .nav-link { color: #c72138; &:hover { color: #e06236; } }
+  .navbar-nav .nav-item:nth-child(5) > .nav-link { color: #e06236; &:hover { color: #d7a64b; } }
+  .navbar-nav .nav-item:nth-child(6) > .nav-link { color: #d7a64b; &:hover { color: #c72138; } }
+
   .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;
