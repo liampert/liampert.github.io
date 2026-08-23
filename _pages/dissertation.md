@@ -18,12 +18,3 @@ The third paper examines the election stage using a survey experiment, finding t
 
 Together, these papers demonstrate the persistence of exclusionary practices that systematically diminish minority congressional representation, shape campaign choices, and structure access to institutional power.
 
----
-
-## Papers
-
-**Liampert, Iliya**. "Sorted by Stereotypes: Race and Gender in Congressional Committee Assignments." *Working Paper.*
-
-**Liampert, Iliya**. "The Funneling Effect: Burden Committees as Institutional Gatekeeping of Historically Marginalized Representatives." *Working Paper.*
-
-**Liampert, Iliya**. "Coded Campaigns: Asymmetric Voter Responses to Racial Campaign Rhetoric." *Under Review, PS: Political Science & Politics.*

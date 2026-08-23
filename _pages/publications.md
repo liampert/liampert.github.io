@@ -2,7 +2,6 @@
 layout: page
 permalink: /research/
 title: Research
-description: My work focuses on understanding how the descriptive representation of racial and ethnic minorities in both elected and unelected bodies influences meaningful changes in the quality of life of their co-ethnic constituencies as well as their congressional careers.
 nav: true
 nav_order: 2
 ---

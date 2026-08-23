@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-## The American Congress (PLS 324)
+## The American Congress
 
 **Instructor**, Michigan State University — Autumn 2026
 
