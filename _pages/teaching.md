@@ -8,8 +8,6 @@ nav_order: 4
 
 ## The American Congress
 
-**Instructor**, Michigan State University — Autumn 2026
-
 <div style="display: flex; justify-content: flex-end; margin-bottom: 1rem;">
   <a href="/assets/pdf/Congress_F26.pdf" target="_blank" style="text-decoration: none;">
     ⬇ Download Syllabus

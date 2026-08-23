@@ -6,7 +6,7 @@ nav: true
 nav_order: 3
 ---
 
-*Exclusionary Politics: Examining the Barriers for Historically Marginalized Candidates and Congresspeople*
+<p style="font-size: 1.4rem; font-style: italic;">Exclusionary Politics: Examining the Barriers for Historically Marginalized Candidates and Congresspeople</p>
 
 My dissertation examines the structural and behavioral barriers that historically marginalized candidates and legislators face across different stages of American political careers.
 
