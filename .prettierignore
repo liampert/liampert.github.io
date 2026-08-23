@@ -9,3 +9,7 @@ assets/plotly/demo.html
 lighthouse_results/**
 _posts/2015-10-20-math.md
 _sass/font-awesome/*.scss
+_sass/_base.scss
+_sass/_themes.scss
+_sass/_variables.scss
+_sass/_layout.scss
