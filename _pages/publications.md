@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Recent Publications
 
-1\. **Liampert, Iliya**, and Ian Ostrander (2026). "President Biden and Diversity in Executive Appointments." [*American Politics Research.*](https://doi.org/10.1177/1532673X261429372)
+1\. **Liampert, Iliya**, and Ian Ostrander (2026). "President Biden and Diversity in Executive Appointments." [American Politics Research.](https://doi.org/10.1177/1532673X261429372)
 
 <details>
 <summary style="cursor: pointer; font-style: italic; color: #0076df;">Abstract</summary>
@@ -25,8 +25,6 @@ nav_order: 2
 
 Yoel, Benjamin, **Iliya Liampert**, and Matt Grossmann. "Senate Backgrounds and Legislative Effectiveness: Exploring Senators and Their Behavior with SenateData." *Revise and Resubmit.*
 
-**Liampert, Iliya**. "Coded Campaigns: Asymmetric Voter Responses to Racial Campaign Rhetoric." *Under Review, PS: Political Science & Politics.*
-
 ---
 
 ## Data
@@ -40,3 +38,5 @@ Yoel, Benjamin, and **Iliya Liampert** (2025). *[SenateData](/senatedata/).* Ins
 **Liampert, Iliya**. "The Funneling Effect: Burden Committees as Institutional Gatekeeping of Historically Marginalized Representatives."
 
 **Liampert, Iliya**. "Sorted by Stereotypes: Race and Gender in Congressional Committee Assignments."
+
+**Liampert, Iliya**. "Coded Campaigns: Asymmetric Voter Responses to Racial Campaign Rhetoric."
