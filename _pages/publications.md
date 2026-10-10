@@ -7,6 +7,13 @@ nav_order: 2
 ---
 
 ## Recent Publications
+ 
+2\. **Liampert, Iliya**, Bailey Oates, Kelsey Osborne-Garth, and Ian Ostrander (2026). "Who Gets To Govern? Diversity in Executive Appointments." *Forthcoming at Politics, Groups, and Identities.*
+
+<details>
+<summary style="cursor: pointer; font-style: italic; color: #0076df;">Abstract</summary>
+<p style="margin-top: 0.75rem;">For legitimacy, a decision-making body must be demographically representative of the people that it governs. With the expansion of the administrative state, this consideration must include officials who guide the bureaucratic policymaking process. Such officials, however, are appointed through a partisan process of presidential nomination and Senate confirmation, which makes their representativeness dependent upon the politics and procedures of elected branches. How does this selection process influence diversity? Using data spanning 1981--2024, we investigate the institutional, contextual, and partisan influences of when presidents nominate people from underrepresented groups to high-level agency posts, as well as how these nominations progress (or not) toward confirmation. We find that while presidents are increasingly willing to nominate people from underrepresented groups, placements are still influenced by enduring group stereotypes.Furthermore, we demonstrate that the Senate is an obstacle to diversification.</p>
+</details>
 
 1\. **Liampert, Iliya**, and Ian Ostrander (2026). "President Biden and Diversity in Executive Appointments." [American Politics Research.](https://doi.org/10.1177/1532673X261429372)
 
@@ -18,8 +25,6 @@ nav_order: 2
 ---
 
 ## Under Review
-
-**Liampert, Iliya**, Bailey Oates, Kelsey Osborne-Garth, and Ian Ostrander. "Who Gets To Govern? Diversity in Executive Appointments." *Revise and Resubmit.*
 
 **Liampert, Iliya**, Jeremy Price, and Ian Ostrander. "The Determinants of Legislators' Support for Democracy." *Revise and Resubmit.*
 
