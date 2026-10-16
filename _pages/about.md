@@ -30,3 +30,4 @@ Welcome to my website. I am a doctoral candidate at Michigan State University an
 
 My research focuses on congressional politics, minority representation, and American political institutions. I study how racial and ethnic minorities gain and exercise their power within Congress, with particular attention to congressional committees as places of institutional gatekeeping. My work examines descriptive and substantive representation, committee assignments and their role in shaping minority legislators' influence, and broader questions of congressional leadership and interbranch relations. I am also interested in minority candidates and campaigns, including how voters respond to the rhetorical strategies of racial minority candidates.
 
+My work has been published in the *Politics, Groups, and Identities* and *American Politics Research*, with several other articles under review.  
