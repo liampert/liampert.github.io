@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <div style="text-align: center; margin-bottom: 0.75rem; font-size: 1.4rem;">
+    <div style="text-align: center; margin-bottom: 0.75rem; font-size: 2.5rem;">
       <a href="mailto:liampert@msu.edu" title="Email" style="margin: 0 0.4rem;"><i class="fa-solid fa-envelope"></i></a>
       <a href="https://scholar.google.com/citations?user=VJfye-MAAAAJ" title="Google Scholar" style="margin: 0 0.4rem;"><i class="ai ai-google-scholar"></i></a>
       <a href="https://orcid.org/0009-0006-3337-0325" title="ORCID" style="margin: 0 0.4rem;"><i class="ai ai-orcid"></i></a>
@@ -30,4 +30,4 @@ Welcome to my website. I am a doctoral candidate at Michigan State University an
 
 My research focuses on congressional politics, minority representation, and American political institutions. I study how racial and ethnic minorities gain and exercise their power within Congress, with particular attention to congressional committees as places of institutional gatekeeping. My work examines descriptive and substantive representation, committee assignments and their role in shaping minority legislators' influence, and broader questions of congressional leadership and interbranch relations. I am also interested in minority candidates and campaigns, including how voters respond to the rhetorical strategies of racial minority candidates.
 
-My work has been published in the *Politics, Groups, and Identities* and *American Politics Research*, with several other articles under review.  
+My work has been published in the *Research & Politics*,  *American Politics Research*, and *Politics, Groups, and Identities*, with several other articles under review.  

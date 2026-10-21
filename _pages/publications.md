@@ -22,6 +22,14 @@ nav_order: 2
 </style>
 
 ## Recent Publications
+
+
+3\. Yoel, Benjamin, **Iliya Liampert**, and Matt Grossmann. "Senate Backgrounds and Legislative Effectiveness: Exploring Senators and Their Behavior with SenateData." *Forthcoming at Research & Politics.*
+
+<details class="abstract">
+<summary>Abstract</summary>
+<p>This paper introduces SenateData, a novel database of over 1,000 state-member-year variables spanning 1789 to 2025. The dataset compiles senator-level characteristics, their lawmaking behavior, committee membership, and state-level demographics, information that is otherwise dispersed. Accordingly, we enable systematic assessment of competing explanations for the behavior and policymaking of U.S. senators. We also showcase the use of SenateData to assess trends in eliteness in the Senate, documenting a sharp decline in elite representation throughout modern history, with notable declines in dynastic politicians and lawyers. In addition, we use the dataset to provide a brief application to the question of the correlates of legislative effectiveness in the chamber by offering both institutional variables and variables on the personal and professional backgrounds of senators.</p>
+</details>
  
 2\. **Liampert, Iliya**, Bailey Oates, Kelsey Osborne-Garth, and Ian Ostrander (2026). "Who Gets To Govern? Diversity in Executive Appointments." *Forthcoming at Politics, Groups, and Identities.*
 
@@ -42,7 +50,6 @@ nav_order: 2
 
 **Liampert, Iliya**, Jeremy Price, and Ian Ostrander. "The Determinants of Legislators' Support for Democracy." *Revise and Resubmit.*
 
-Yoel, Benjamin, **Iliya Liampert**, and Matt Grossmann. "Senate Backgrounds and Legislative Effectiveness: Exploring Senators and Their Behavior with SenateData." *Revise and Resubmit.*
 
 ---
 
