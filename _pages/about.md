@@ -7,7 +7,7 @@ subtitle: <a href="https://polisci.msu.edu/people/directory/liampert-iliya.html"
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: colorado.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <div style="text-align: center; margin-bottom: 0.75rem; font-size: 2.5rem;">
@@ -16,7 +16,7 @@ profile:
       <a href="https://orcid.org/0009-0006-3337-0325" title="ORCID" style="margin: 0 0.4rem;"><i class="ai ai-orcid"></i></a>
       <a href="https://bsky.app/profile/liampert.bsky.social" title="Bluesky" style="margin: 0 0.4rem;"><i class="fa-brands fa-bluesky"></i></a>
     </div>
-    <p>Michigan State University</p>
+    <p>Michigan State University</p>  
     <p>Department of Political Science</p>
     <p>South Kedzie Hall, S230</p>
     <p>East Lansing, MI 48824</p>
